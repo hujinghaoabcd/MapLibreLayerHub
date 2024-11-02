@@ -1,7 +1,7 @@
 
-<p align="center"><img src="images/maplibre_layerhub.svg" width="20%" /></p>
+<p align="center"><img src="images/maplibre_layerhub_title.svg"  /></p>
 
-<h1 align='center'>MapLibreLayerHub</h1>
+<!-- <h1 align='center'>MapLibreLayerHub</h1> -->
 
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/version-1.0-yellow.svg" /></a>
