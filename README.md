@@ -11,7 +11,7 @@
 
 > **MapLibreLayerHub**: An efficient layer management control built on Maplibre, with seamless integration of layui's layer, bootstrap-slider, and ztree.
 
-English | [中文](#中文)
+English | [中文](README_CN.md)
 
 ---
 
