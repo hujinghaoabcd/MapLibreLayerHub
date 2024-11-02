@@ -1,9 +1,10 @@
 
-<p align="center"><img src="images/maplibre_layerhub_title.svg"  /></p>
+<p align="center"><img src="images/maplibre_layerhub_title.svg" width="90%" /></p>
 
 <!-- <h1 align='center'>MapLibreLayerHub</h1> -->
+# MapLibreLayerHub
 
-<p align="center">
+<p align="">
 <a href=""><img src="https://img.shields.io/badge/version-1.0-yellow.svg" /></a>
 <a href=""><img src="https://img.shields.io/badge/author-Jinghao%20Hu-orange.svg" /></a>
 <a href=""><img src="https://img.shields.io/badge/language-TypeScript-blue.svg" /></a>
