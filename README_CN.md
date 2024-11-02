@@ -1,5 +1,5 @@
 
-<p align="center"><img src="images/maplibre_layerhub.svg" width="30%" /></p>
+<p align="center"><img src="images/maplibre_layerhub.svg" width="20%" /></p>
 
 <h1 align='center'>MapLibreLayerHub</h1>
 
