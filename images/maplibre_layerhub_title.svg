@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="282.86667mm"
+   height="56.13224mm"
+   viewBox="0 0 282.86667 56.132241"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="maplibre_layerhub_title.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.94163159"
+     inkscape:cx="545.86104"
+     inkscape:cy="320.18892"
+     inkscape:window-width="2160"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="279.30243"
+       y="54.161308"
+       width="419.48465"
+       height="170.97981"
+       id="rect18" />
+    <rect
+       x="254.87675"
+       y="30.797607"
+       width="365.32333"
+       height="145.49214"
+       id="rect17" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.5818641,65.338787)">
+    <g
+       id="g2-7"
+       transform="matrix(0.21519163,0,0,0.22610182,8.5818641,-65.338787)">
+      <path
+         d="M 127.02488,0 256,72.257606 191.27288,105.71319 127.0515,139.4745 0,72.187826 Z m 0.087,30.496114 -71.917695,40.882048 71.891805,38.061418 52.10339,-27.405572 20.78943,-10.716778 z"
+         id="path15"
+         style="fill:#2890e9;fill-opacity:1" />
+      <path
+         d="M 253.19729,98.679788 V 128.56651 L 127.20832,193.90294 2.3595946,128.16582 V 99.176162 L 127.2781,163.85939 Z"
+         id="path14"
+         style="fill:#ffce56;fill-opacity:1" />
+      <path
+         d="M 2.3595946,152.51546 127.28673,218.2087 253.19729,153.03773 v 29.89536 L 127.20832,248.26089 2.3595946,182.52448 Z"
+         id="path1-1"
+         style="fill:#fe777b;fill-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:121.549px;line-height:0px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';text-align:center;letter-spacing:2.00315px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#3a7ceb;fill-opacity:1;stroke-width:1.20138"
+         x="784.22681"
+         y="160.68079"
+         id="text19"
+         transform="scale(1.0250365,0.97557501)"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.549px;font-family:Elephant;-inkscape-font-specification:Elephant;fill:#3a7ceb;fill-opacity:1;stroke-width:1.20138"
+           x="785.22839"
+           y="160.68079">LibreLayerHub</tspan></text>
+    </g>
+  </g>
+</svg>

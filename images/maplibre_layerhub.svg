@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55.089062mm"
+   height="56.132236mm"
+   viewBox="0 0 55.089062 56.132236"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="maplibre_layerhub.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.6633363"
+     inkscape:cx="49.186428"
+     inkscape:cy="172.52797"
+     inkscape:window-width="2160"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-193.14583,-79.639583)">
+    <path
+       d="m 220.48052,79.639583 27.75437,16.337576 -13.92874,7.564371 -13.8199,7.63349 -27.34042,-15.213638 z m 0.0187,6.895227 -15.47608,9.243505 15.47051,8.605755 11.21221,-6.196448 4.47372,-2.423083 z"
+       id="path15"
+       style="fill:#2890e9;fill-opacity:1;stroke-width:0.220579" />
+    <path
+       d="m 247.63177,101.95126 v 6.75744 L 220.52,123.48139 193.6536,108.61811 v -6.55462 l 26.88141,14.625 z"
+       id="path14"
+       style="fill:#ffce56;fill-opacity:1;stroke-width:0.220579" />
+    <path
+       d="m 193.6536,114.12361 26.88327,14.85336 27.0949,-14.73528 v 6.7594 L 220.52,135.77182 193.6536,120.9087 Z"
+       id="path1-1"
+       style="fill:#fe777b;fill-opacity:1;stroke-width:0.220579" />
+  </g>
+</svg>
